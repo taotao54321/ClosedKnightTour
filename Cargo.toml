@@ -1,0 +1,9 @@
+[package]
+name = "closed_knight_tour"
+version = "0.1.0"
+authors = ["taotao54321 <taotao54321@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+itertools = "0.10.0"
+structopt = "0.3.21"
